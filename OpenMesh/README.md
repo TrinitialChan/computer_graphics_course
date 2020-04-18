@@ -1,4 +1,5 @@
 #OPENMESH课程作业  
+
 对于包围球Ritter算法以及顶点法向量的表示方法进行了呈现  
 写在了MeshViewerWidget来方便组件调用
 
